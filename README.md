@@ -20,6 +20,8 @@
    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
  
   </p>
+  
+  ![Suh-Wonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhwj&show_icons=true&theme=dark)
 
   
 <!--
