@@ -1,3 +1,16 @@
+## ROY's GITHUB
+
+### Hi there 👋
+🥳Thank you for visiting my github!🥳
+
+</br>  
+
+👩🏻‍💻 I'm an iOS developer!  
+- 🏹 My skills: C, Swift, iOS(UIKit)
+
+</br>
+
+⛺️ I stuing iOS in [Yagom iOS strater camp.](https://www.yagom-academy.kr)  
 
 
 <p>
@@ -21,7 +34,10 @@
  
   </p>
   
-  ![Suh-Wonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roy-wonji&show_icons=true&theme=dark)
+  #### ✨ Dev log
+  ![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roy-wonji&&count_private=true&custom_title=Roy's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)</br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-wonji&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 
   
 <!--
