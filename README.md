@@ -21,7 +21,7 @@
  
   </p>
   
-  ![Suh-Wonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhwj&show_icons=true&theme=dark)
+  ![Suh-Wonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roy-wonji&show_icons=true&theme=dark)
 
   
 <!--
