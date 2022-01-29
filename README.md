@@ -14,7 +14,7 @@
 
 
 <p>
-  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android and iOS. 🚀<br/>
+  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using  iOS. 🚀<br/>
  
   I enjoy listening music . driving , playing game  ⛰ 🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
