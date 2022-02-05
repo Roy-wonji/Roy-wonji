@@ -6,11 +6,11 @@
 </br>  
 
 👩🏻‍💻 I'm an iOS developer!  
-- 🏹 My skills: C, Swift, iOS(UIKit)
+- 🏹 My skills:  Swift, iOS(UIKit)
 
 </br>
 
-⛺️ I stuing iOS in [Yagom iOS strater camp.](https://www.yagom-academy.kr)  
+⛺️ I studying iOS in [Yagom iOS strater camp.](https://www.yagom-academy.kr)  
 
 
 <p>
