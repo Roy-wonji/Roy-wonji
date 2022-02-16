@@ -10,7 +10,9 @@
 
 </br>
 
-⛺️ I studying iOS in [Yagom iOS strater camp.](https://www.yagom-academy.kr)  
+⛺️ I studying iOS in [Yagom iOS carrer-strater camp.](https://www.yagom-academy.kr/camp/career-starter)
+⛺️ I studyied iOS in [Yagom iOS code-strater camp 2기.](https://www.yagom-academy.kr/camp/code-starter)
+
 
 
 <p>
