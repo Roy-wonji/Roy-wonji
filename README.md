@@ -1,14 +1,15 @@
 ## ROY's GITHUB
 
-### Hi there 👋
-explain the code line by line (ios devloper)
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-</br>  
 
-l'm ios junior dev 
-- ❤️‍🔥 My skills:  Swift, iOS(UIKit), dart , flutter
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-</br>
+hi, i'm Roy </br>
+Ios app developer from korea. my passion for software lies with dreaming up ideas and making them come true with elegant UI/UX and interface. </br>
+explain the code line by line I build.
+
+
 
 ⛺️ I studying iOS in [Yagom iOS carrer-strater camp.](https://www.yagom-academy.kr/camp/career-starter)</br>
 ⛺️ I studyied iOS in [Yagom iOS code-strater camp ](https://www.yagom-academy.kr/camp/code-starter)
@@ -28,12 +29,10 @@ l'm ios junior dev
    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
   </p>
-
 #### Tools
 <p>
    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
- 
   </p>
   
   #### ✨ Dev log
