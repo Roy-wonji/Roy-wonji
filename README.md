@@ -1,12 +1,12 @@
 ## ROY's GITHUB
 
 ### Hi there 👋
-🥳Thank you for visiting my github!🥳
+explain the code line by line (ios devloper)
 
 </br>  
 
-👩🏻‍💻 I'm an iOS developer!  
-- 🏹 My skills:  Swift, iOS(UIKit)
+L'm ios junior dev 
+- ❤️‍🔥 My skills:  Swift, iOS(UIKit), dart , flutter
 
 </br>
 
@@ -16,10 +16,10 @@
 
 
 <p>
-  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using  iOS. 🚀<br/>
+  👋&nbsp; Hi there! I'm <b>mobile isos developer</b><br/>
  
-  I enjoy listening music . driving , playing game  ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  I enjoy listening music .traveling , playing game  ⛰ 🏄<br/>
+  I hope  Someone who can explain the code line by line <br/><br/>
 </p>
 
 ### 💪 Skills
