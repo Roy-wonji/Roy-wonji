@@ -5,7 +5,7 @@ explain the code line by line (ios devloper)
 
 </br>  
 
-L'm ios junior dev 
+l'm ios junior dev 
 - ❤️‍🔥 My skills:  Swift, iOS(UIKit), dart , flutter
 
 </br>
@@ -16,7 +16,7 @@ L'm ios junior dev
 
 
 <p>
-  👋&nbsp; Hi there! I'm <b>mobile isos developer</b><br/>
+  👋&nbsp; Hi there! I'm <b>mobile ios developer</b><br/>
  
   I enjoy listening music .traveling , playing game  ⛰ 🏄<br/>
   I hope  Someone who can explain the code line by line <br/><br/>
