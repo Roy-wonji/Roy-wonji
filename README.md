@@ -12,7 +12,6 @@ explain the code line by line I build.
 
 
 
-⛺️ I studying iOS in [Yagom iOS carrer-strater camp.](https://www.yagom-academy.kr/camp/career-starter)</br>
 ⛺️ I studyied iOS in [Yagom iOS code-strater camp ](https://www.yagom-academy.kr/camp/code-starter)
 
 
