@@ -4,12 +4,9 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://i.imgur.com/3f51WN7.gif" width="500" height="320" />
 
 hi, i'm Roy </br>
-Ios app developer from korea. my passion for software lies with dreaming up ideas and making them come true with elegant UI/UX and interface. </br>
-explain the code line by line I build.
-
 
 ⛺️ I studying iOS in [앨런 Swift문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8#curriculum)</br>
 ⛺️ I  wiil studying iOS in [Rising Camp](https://risingcamp.com/)</br>
@@ -25,18 +22,23 @@ explain the code line by line I build.
 </p>
 
 ### 🛠 Skills & Tools 🛠
-<p>
+<p> 
 </p>
 
    ![Swift](https://img.shields.io/badge/Swift-ff5d24?style=for-the-badge&logo=Swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-222222?style=for-the-badge&logo=Apple&logoColor=white) ![Xcode](https://img.shields.io/badge/XCode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-3A3845?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=Git&logoColor=white)  
    
  ![Figma](https://img.shields.io/badge/Figma-8479E1?style=for-the-badge&logo=figma&logoColor=white) ![FireBase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
   
-  #### ✨ Dev log
-  ![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roy-wonji&&count_private=true&custom_title=Roy's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)</br>
-  </br>
+ <h2 align="center"> ✨ Dev log </h2>
+ <p>
+ <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=Roy-wonji&&count_private=true&custom_title=Roy's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff"/>
+  
+  
+<!--   ![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roy-wonji&&count_private=true&custom_title=Roy's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)  -->
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-wonji&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
+
 
   
 <!--
