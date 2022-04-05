@@ -24,21 +24,13 @@ explain the code line by line I build.
   I hope  Someone who can explain the code line by line <br/><br/>
 </p>
 
-### 💪 Skills
-#### Platforms & Languages
+### 🛠 Skills & Tools 🛠
 <p>
-   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
-  </p>
-  
-#### Tools
-<p>
-   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  </p>
+</p>
+
+   ![Swift](https://img.shields.io/badge/Swift-ff5d24?style=for-the-badge&logo=Swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-222222?style=for-the-badge&logo=Apple&logoColor=white) ![Xcode](https://img.shields.io/badge/XCode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-3A3845?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=Git&logoColor=white)  
+   
+ ![Figma](https://img.shields.io/badge/Figma-8479E1?style=for-the-badge&logo=figma&logoColor=white) ![FireBase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
   
   #### ✨ Dev log
   ![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roy-wonji&&count_private=true&custom_title=Roy's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)</br>
