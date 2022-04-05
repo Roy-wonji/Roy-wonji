@@ -29,7 +29,7 @@ hi, i'm Roy </br>
    
  ![Figma](https://img.shields.io/badge/Figma-8479E1?style=for-the-badge&logo=figma&logoColor=white) ![FireBase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
   
- <h2 align="center"> ✨ Dev log </h2>
+ <h2 > ✨ Dev log </h2>
  <p>
  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=Roy-wonji&&count_private=true&custom_title=Roy's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff"/>
   
