@@ -4,7 +4,7 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img align="right" alt="GIF" src="https://i.imgur.com/3f51WN7.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://i.imgur.com/3f51WN7.gif" width="460" height="300" />
 
 hi, i'm Roy </br>
 
@@ -21,8 +21,6 @@ hi, i'm Roy </br>
   I hope  Someone who can explain the code line by line <br/><br/>
 </p>
 </br>
-</br>
-</br>
 
 ### 🛠 Skills & Tools 🛠
 <p> 
@@ -34,11 +32,12 @@ hi, i'm Roy </br>
   
  <h2 > ✨ Dev log </h2>
  <p>
- <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=Roy-wonji&&count_private=true&custom_title=Roy's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff"/>
+ <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Roy-wonji&&count_private=true&custom_title=Roy's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff"/>
   
   
 <!--   ![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roy-wonji&&count_private=true&custom_title=Roy's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)  -->
   
+ 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-wonji&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
 
