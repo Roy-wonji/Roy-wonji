@@ -1,7 +1,7 @@
 ## ROY's GITHUB
 <img src="https://komarev.com/ghpvc/?username=Roy-wonji&amp;&amp;style=flat-square" align="right">
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 
 
 <img align="right" alt="GIF" src="https://i.imgur.com/3f51WN7.gif" width="460" height="300" />
