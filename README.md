@@ -41,7 +41,7 @@ hi, i'm Roy </br>
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-wonji&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
-
+<img allign="center" src="https://dooboo.io/api/github-stats-advanced?login=Roy-wonji" width="50%">
 
   
 <!--
