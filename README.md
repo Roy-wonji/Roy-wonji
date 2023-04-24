@@ -48,6 +48,7 @@ Thank you for visiting my github. <br>
    
    <img allign="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-wonji&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff" width="35%">
   
+  
   </div> 
   
    
@@ -59,6 +60,8 @@ Thank you for visiting my github. <br>
   </br>
   
   <img allign="center" src="https://stats.hyochan.dev/api/github-stats-advanced?login=roy-wonji" width="40%">
+   <img allign="right" src="https://stats.hyochan.dev/api/github-trophies?login=Roy-wonji" width="80%">  
+  
   
   
 <!--
