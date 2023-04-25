@@ -24,22 +24,21 @@ Thank you for visiting my github. <br>
 ⛺️ I studyied iOS in [Yagom iOS code-strater camp ](https://www.yagom-academy.kr/camp/code-starter)</br>
 ⛺️ [코딩 클럽](https://github.com/orgs/Swift-Coding-Club/repositories) 운영진 및 멘토 
  <br>
- 
- ## Projects
-
->**Currently working on**
-- [Affinity](https://github.com/Swift-Coding-Club/TogetherApp) - 신발  커뮤니티 어플 / SwiftUI/MVVM
-- [코인 모야](https://github.com/Swift-Coding-Club/TossSecuritiesStockCloneAPP) - 초보자들을 위한 주식앱 / SwiftUI/MVVM
-- [한다](https://github.com/Swift-Coding-Club/TodoList) - 오늘 할일을 매일 작성하는 todolist  / SwiftUI/MVVM
- 
- 
- 
  <p>
   👋&nbsp; Hi there! I'm <b>mobile ios developer</b><br/>
  
   I enjoy listening music .traveling , playing game  ⛰ 🏄<br/>
   I hope  Someone who can explain the code line by line <br/><br/>
 </p>
+
+## Projects
+
+>**Currently working on**
+- [Affinity](https://github.com/Swift-Coding-Club/TogetherApp) - 신발  커뮤니티 어플 / SwiftUI/MVVM
+- [코인 모야](https://github.com/Swift-Coding-Club/TossSecuritiesStockCloneAPP) - 초보자들을 위한 주식앱 / SwiftUI/MVVM
+- [한다](https://github.com/Swift-Coding-Club/TodoList) - 오늘 할일을 매일 작성하는 todolist  / SwiftUI/MVVM
+
+
 </div>
  
 <br>
