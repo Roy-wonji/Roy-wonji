@@ -24,6 +24,16 @@ Thank you for visiting my github. <br>
 ⛺️ I studyied iOS in [Yagom iOS code-strater camp ](https://www.yagom-academy.kr/camp/code-starter)</br>
 ⛺️ [코딩 클럽](https://github.com/orgs/Swift-Coding-Club/repositories) 운영진 및 멘토 
  <br>
+ 
+ ## Projects
+
+>**Currently working on**
+- [Affinity](https://github.com/Swift-Coding-Club/TogetherApp) - 신발  커뮤니티 어플 / SwiftUI/MVVM
+- [코인 모야](https://github.com/Swift-Coding-Club/TossSecuritiesStockCloneAPP) - 초보자들을 위한 주식앱 / SwiftUI/MVVM
+- [한다](https://github.com/Swift-Coding-Club/TodoList) - 오늘 할일을 매일 작성하는 todolist  / SwiftUI/MVVM
+ 
+ 
+ 
  <p>
   👋&nbsp; Hi there! I'm <b>mobile ios developer</b><br/>
  
@@ -37,7 +47,7 @@ Thank you for visiting my github. <br>
 ## 🛠 Skills & Tools 🛠
 <div align="left">
 
-  ![Swift](https://img.shields.io/badge/Swift-ff5d24?style=for-the-badge&logo=Swift&logoColor=white)  ![iOS](https://img.shields.io/badge/iOS-222222?style=for-the-badge&logo=Apple&logoColor=white) ![Xcode](https://img.shields.io/badge/XCode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-3A3845?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=Git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-8479E1?style=for-the-badge&logo=figma&logoColor=white) ![FireBase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+ ![iOS](https://img.shields.io/badge/iOS-222222?style=for-the-badge&logo=Apple&logoColor=white) ![Xcode](https://img.shields.io/badge/XCode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-ff5d24?style=for-the-badge&logo=Swift&logoColor=white) <img src="https://img.shields.io/badge/SwiftUI-0886FE?style=round-square&logo=Swift&logoColor=white" height="28">  ![Github](https://img.shields.io/badge/GitHub-3A3845?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=Git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-8479E1?style=for-the-badge&logo=figma&logoColor=white) ![FireBase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
   
 <h2 > ✨ Dev log </h2>
  <div align="center">
