@@ -37,9 +37,10 @@ Thank you for visiting my github. <br>
 - [Affinity](https://github.com/Swift-Coding-Club/TogetherApp) - 신발  커뮤니티 어플 / SwiftUI/MVVM
 - [코인 모야](https://github.com/Swift-Coding-Club/TossSecuritiesStockCloneAPP) - 초보자들을 위한 주식앱 / SwiftUI/MVVM
 - [한다](https://github.com/Swift-Coding-Club/TodoList) - 오늘 할일을 매일 작성하는 todolist  / SwiftUI/MVVM
-
+- [DDD 9th](https://github.com/DDD-Community/PINGPONG-IOS) - SwiftUI/MVVM
 ## Experience
-> [DDD 9th](https://www.instagram.com/dynamic_ddd/) 
+> [DDD 9th](https://www.instagram.com/dynamic_ddd/) </br>
+> [DDD 9th Project](https://github.com/DDD-Community/PINGPONG-IOS)
 
 
 </div>
