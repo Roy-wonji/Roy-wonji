@@ -22,7 +22,7 @@ Thank you for visiting my github. <br>
 ⛺️ I  studyied iOS in [Udamy  iOS & Swift](https://www.udemy.com/course/ios-13-app-development-bootcamp/)</br>
 ⛺️ I studied iOS in [앨런 Swift문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8#curriculum)</br>
 ⛺️ I studyied iOS in [Yagom iOS code-strater camp ](https://www.yagom-academy.kr/camp/code-starter)</br>
-⛺️ [코딩 클럽](https://github.com/orgs/Swift-Coding-Club/repositories) 운영진 및 멘토 </br>
+⛺️ [코딩 클럽](https://github.com/orgs/Swift-Coding-Club/repositories) 전운영진 및 멘토 </br>
 ⛺️ [DDD 운영진 ](https://www.instagram.com/dynamic_ddd/) 
  <br>
  <p>
