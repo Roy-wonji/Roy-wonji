@@ -39,8 +39,8 @@ Thank you for visiting my github. <br>
 - [코인 모야](https://github.com/Swift-Coding-Club/TossSecuritiesStockCloneAPP) - 초보자들을 위한 주식앱 / SwiftUI/MVVM
 - [한다](https://github.com/Swift-Coding-Club/TodoList) - 오늘 할일을 매일 작성하는 todolist  / SwiftUI/MVVM
 - [DDD 9th(명언 제과점)](https://github.com/DDD-Community/PINGPONG-IOS) - 명언 제과점 / SwiftUI /MVVM /Tuist
-- [DDD 출석앱](https://github.com/DDD-Community/Attendance_iOS_2024) - DDD 출석앱 /  / SwiftUI /TCA /Tuist / Reactorkit
-- [DDD Opeace](https://github.com/DDD-Community/OPeace) - DDD 오피스 앱 / SwiftUi/ TCA/ Tuist 
+- [DDD 출석앱](https://github.com/DDD-Community/Attendance_iOS_2024) - DDD 출석앱 / SwiftUI /TCA /Tuist / Reactorkit
+- [DDD Opeace](https://github.com/DDD-Community/OPeace) - DDD 오피스 앱 / SwiftUI / TCA/ Tuist 
 ## Experience
 > [DDD 9th](https://www.instagram.com/dynamic_ddd/) </br>
 > [DDD 9th Project](https://github.com/DDD-Community/PINGPONG-IOS)</br>
