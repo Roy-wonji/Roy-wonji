@@ -42,6 +42,7 @@ Thank you for visiting my github. <br>
 - [DDD 출석앱](https://github.com/DDD-Community/Attendance_iOS_2024) - DDD 출석앱 / SwiftUI /TCA /Tuist / Reactorkit
 - [DDD Opeace](https://github.com/DDD-Community/OPeace) - DDD 오피스 앱 / SwiftUI / TCA/ Tuist
 - [AsyncMoya](https://github.com/Roy-wonji/AsyncMoya) - Moya를 좀더 간편하게 사용 하는 라이브러리
+- [LogMacro](https://github.com/Roy-wonji/LogMacro) - Log 를 사용하기 쉽게 메크로 형식및 일반 타입으로 만든 라이브러리
 ## Experience
 > [DDD 9th](https://www.instagram.com/dynamic_ddd/) </br>
 > [DDD 9th Project](https://github.com/DDD-Community/PINGPONG-IOS)</br>
