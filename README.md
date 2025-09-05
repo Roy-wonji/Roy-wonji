@@ -79,12 +79,9 @@ Thank you for visiting my github. <br>
   </div>
   
   
-  </br>
+
   
-  <img allign="center" src="https://stats.hyochan.dev/api/github-stats-advanced?login=roy-wonji" width="40%">
-   <img allign="right" src="https://stats.hyochan.dev/api/github-trophies?login=Roy-wonji" width="80%">  
-  
-  
+![](./profile-3d-contrib/profile-south-season-animate.svg)
   
 <!--
 **suhwj/suhwj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
