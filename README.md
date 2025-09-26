@@ -35,16 +35,20 @@ Thank you for visiting my github. <br>
 ## Projects
 
 >**Currently working on**
-- [Affinity](https://github.com/Swift-Coding-Club/TogetherApp) - 신발  커뮤니티 어플 / SwiftUI/MVVM
-- [코인 모야](https://github.com/Swift-Coding-Club/TossSecuritiesStockCloneAPP) - 초보자들을 위한 주식앱 / SwiftUI/MVVM
-- [한다](https://github.com/Swift-Coding-Club/TodoList) - 오늘 할일을 매일 작성하는 todolist  / SwiftUI/MVVM
-- [DDD 9th(명언 제과점)](https://github.com/DDD-Community/PINGPONG-IOS) - 명언 제과점 / SwiftUI /MVVM /Tuist
+- [WeaveDI](https://github.com/Roy-wonji/WeaveDI) - DiContainer를 쉽고 호환성이 잘되게 만든 라이브러리
 - [DDD 출석앱](https://github.com/DDD-Community/Attendance_iOS_2024) - DDD 출석앱 / SwiftUI /TCA /Tuist / Reactorkit
 - [DDD Opeace](https://github.com/DDD-Community/OPeace) - DDD 오피스 앱 / SwiftUI / TCA/ Tuist
 - [AsyncMoya](https://github.com/Roy-wonji/AsyncMoya) - Moya를 좀더 간편하게 사용 하는 라이브러리
 - [LogMacro](https://github.com/Roy-wonji/LogMacro) - Log 를 사용하기 쉽게 메크로 형식및 일반 타입으로 만든 라이브러리
 - [AsyncURLSession](https://github.com/Roy-wonji/AsyncURLSession) - URLSession 을 간편하게 사용하는 라이브러리
-- [DiContainer](https://github.com/Roy-wonji/DiContainer) - DiContainer를 쉽게 사용하는 라이브러리
+- [DDD 9th(명언 제과점)](https://github.com/DDD-Community/PINGPONG-IOS) - 명언 제과점 / SwiftUI /MVVM /Tuist
+- [Affinity](https://github.com/Swift-Coding-Club/TogetherApp) - 신발  커뮤니티 어플 / SwiftUI/MVVM
+- [코인 모야](https://github.com/Swift-Coding-Club/TossSecuritiesStockCloneAPP) - 초보자들을 위한 주식앱 / SwiftUI/MVVM
+- [한다](https://github.com/Swift-Coding-Club/TodoList) - 오늘 할일을 매일 작성하는 todolist  / SwiftUI/MVVM
+
+
+
+  
 ## Experience
 > [DDD 9th](https://www.instagram.com/dynamic_ddd/) </br>
 > [DDD 9th Project](https://github.com/DDD-Community/PINGPONG-IOS)</br>
