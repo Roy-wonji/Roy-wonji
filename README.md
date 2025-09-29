@@ -35,7 +35,7 @@ Thank you for visiting my github. <br>
 ## Projects
 
 >**Currently working on**
-- [WeaveDI](https://github.com/Roy-wonji/WeaveDI) - DiContainer를 쉽고 호환성이 잘되게 만든 라이브러리
+- [WeaveDI](https://github.com/Roy-wonji/WeaveDI) - WeaveDI(DiContainer)를 쉽고 호환성이 잘되게 만든 라이브러리
 - [DDD 출석앱](https://github.com/DDD-Community/Attendance_iOS_2024) - DDD 출석앱 / SwiftUI /TCA /Tuist / Reactorkit
 - [DDD Opeace](https://github.com/DDD-Community/OPeace) - DDD 오피스 앱 / SwiftUI / TCA/ Tuist
 - [AsyncMoya](https://github.com/Roy-wonji/AsyncMoya) - Moya를 좀더 간편하게 사용 하는 라이브러리
